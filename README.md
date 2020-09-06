@@ -7,4 +7,3 @@ For more information on my current projects (aside from those on GitHub), please
 To see my Résumé, please click [here](https://devksingh.com/resume).
 
 To contact me, you can fill out the form on my website, or email me at `dev at devksingh.com`.
--->
