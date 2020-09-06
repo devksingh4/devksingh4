@@ -6,6 +6,6 @@ I am currently looking for internships and research opportunities. Please contac
 
 For more information on my current projects (aside from those on GitHub), please visit my website [here](https://devksingh.com). 
 
-To see my Résumé, please click [here](https://devksingh.com/resume).
+To see my résumé, please click [here](https://devksingh.com/resume).
 
 To contact me, you can fill out the form on my website, or email me at `dev at devksingh.com`.
