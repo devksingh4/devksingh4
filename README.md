@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-My name is Dev Singh and I am a 17 year old student developer at the [Illinois Mathematics and Science Academy](https://imsa.edu). I’m interested in machine learning (specifically big data and natural language processing), along with cloud technologies. I have previously worked with tools including: PyTorch, Keras, scikit-learn, Express.js, Docker, Kubernetes, Canonical MaaS/Juju, Chef, and Ansible.
+My name is Dev Singh and I am a high-school junior at the [Illinois Mathematics and Science Academy](https://imsa.edu). I am interested in Machine Learning (specifically Big Data and Natural Language Processing), as well as cloud technologies. I have previously worked with tools including: PyTorch, Keras, SLURM, scikit-learn, Express.js, Docker, Kubernetes, Canonical MaaS/Juju, Chef, and Ansible.
 
-For more information on my current projects (aside from those on GitHub), please visit my website [here](https://devksingh.com). 
+I am currently a student researcher at the [Text Information Management and Analysis Group](http://sifaka.cs.uiuc.edu/ir/) at the University of Illinois at Urbana-Champaign, advised by [Prof. ChengXiang Zhai](http://czhai.cs.illinois.edu/) and [Prof. Ismini Lourentzou (Virginia Tech)](https://isminoula.github.io). I am currently working on Computer Vision research projects involving active and semi-supervised learning with data noise and sparsity.
 
-To see my CV, please click [here](https://devksingh.com/cv.html).
+I am also a Software Engineering Intern at [Zakti Security Labs](https://zaktilabs.com/), developing security and auditing applications for clients of all sizes. 
 
-To contact me, you can fill out the form on my website, or email me at `dev at devksingh.com`.
+For more information on my current projects (aside from those on GitHub), or to contact me, please visit my website [here](https://devksingh.com). 
+
+To see my CV, please click [here](https://devksingh.com/files/cv.pdf).
