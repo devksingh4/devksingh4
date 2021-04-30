@@ -8,4 +8,4 @@ I am also a Software Engineering Intern at [Zakti Security Labs](https://zaktila
 
 For more information on my current projects (aside from those on GitHub), or to contact me, please visit my website [here](https://devksingh.com). 
 
-To see my CV, please click [here](https://devksingh.com/files/cv.pdf).
+To see my resume, please click [here](https://devksingh.com/files/resume.pdf).
