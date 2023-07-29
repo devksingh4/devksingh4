@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a sophomore majoring in Computer Science at the University of Illinois Urbana-Champaign. I am interested in Deep Learning as well as cloud technologies. I have previously worked with tools including: PyTorch, Keras, SLURM, scikit-learn, Express.js, Docker, Kubernetes, Canonical MaaS/Juju, Chef, and Ansible.
+I am a sophomore majoring in Computer Science at the University of Illinois Urbana-Champaign. I am interested in Deep Learning as well as cloud technologies. I have previously worked with tools including: PyTorch, Keras, SLURM, scikit-learn, Express.js, Docker, Kubernetes, Canonical MaaS/Juju, Chef, and Ansible. I also have experience developing cloud-native applications on Amazon Web Services, Microsoft Azure, and Google Cloud Platform.
 
 For Summer 2023, I will be a Digital and Analytics intern at the Cat Digital division of Caterpillar, where I will be working on Applied Machine Learning and other similar tasks. I was also a Software Engineering Intern at Zakti Security Labs, developing security and auditing applications for clients of all sizes.
 
