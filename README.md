@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a junior undergrad student interested in machine learning engineering majoring in Computer Science at the University of Illinois Urbana-Champaign. I have previously worked with tools including: PyTorch, scikit-learn, Express.js, Docker, Kubernetes, AWS Lambda, PostgreSQL, DynamoDB, Redis, and MongoDB.
+I am a junior undergrad student interested in machine learning engineering and majoring in Computer Science at the University of Illinois Urbana-Champaign. I have previously worked with tools including: PyTorch, scikit-learn, Express.js, Docker, Kubernetes, AWS Lambda, PostgreSQL, DynamoDB, Redis, and MongoDB.
 
 For Summer 2024, I will be working at Capital One as part of the Technology Internship Program in McLean, VA.
 
