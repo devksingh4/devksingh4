@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-I am a junior undergrad student interested in machine learning engineering and majoring in Computer Science at the University of Illinois Urbana-Champaign. I have previously worked with tools including: PyTorch, scikit-learn, Express.js, Docker, Kubernetes, AWS Lambda, PostgreSQL, DynamoDB, Redis, and MongoDB.
+I am currently a senior pursuing a combined BS/MCS in Computer Science at the University of Illinois Urbana-Champaign (UIUC). I have hands-on experience in machine learning engineering and distributed systems.
 
-For Summer 2024, I will be working at Capital One as part of the Technology Internship Program in McLean, VA.
+During Summer 2024, I worked at Capital One as a Software Engineer Intern. There, I built full-stack fraud detection solutions using technologies such as TypeScript, AWS Fargate, and Kafka that reduced fraud investigation time, fraud losses, and operational costs.
 
-Last summer, I worked as a Digital and Analytics Intern at the Cat Digital division of Caterpillar on the MLOps and Analytics Execution team in Chicago. There, I worked to develop event-based anomaly detection systems that drive machine analytics and after-market service sales. I was also previously a Software Engineering Intern at Zakti Security Labs, developing security and auditing applications for clients of all sizes.
+During Summer and Fall 2023, I worked at Caterpillar's Cat Digital division as a Software Engineer/MLOps Intern, where I focued on optimizing anomaly detection systems and increasing system performance by building a distributed machine learning and rules-based runner architecture. This work boosted after-market service sales by increasing the number of supported assets. Previously, I was also a Software Engineer Intern at Zakti Security Labs, where I developed custom tools to prevent unauthorized access to client systems and performed cybersecurity audits.
 
-I am a course assistant for CS 357 (Numerical Methods) at UIUC. I am also the Treasurer, as well as Infrastructure Lead Architect, for ACM @ Illinois. I was also a student researcher, working on Computer Vision models using vision transformers, at the Text Information Management and Analysis Group at the University of Illinois, advised by Prof. ChengXiang Zhai and Prof. Ismini Lourentzou (Virginia Tech).
+At UIUC, I serve as a Course Assistant for CS 357 (Numerical Methods) and CS 341 (Systems Programming). I am also the Infrastructure Chair, and previously Treasurer, for ACM @ UIUC, where I led modernization initiatives that reduced application downtime by 40%. Additionally, I worked on deep learning research, focusing on contrastive multimodal video transformers, under the supervision of Prof. ChengXiang Zhai and Prof. Ismini Lourentzou.
 
 For more information on my current projects (aside from those on GitHub), or to contact me, please visit my website [here](https://devksingh.com?utm_medium=social&utm_source=github.com). 
 
-To see my resume, please click [here](https://files.devksingh.com/resume.pdf).
+To see my resume, please click [here](https://devksingh.com/Dev_Singh_resume.pdf).
