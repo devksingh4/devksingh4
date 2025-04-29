@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently a senior pursuing a combined BS/MCS in Computer Science at the University of Illinois Urbana-Champaign (UIUC). I have hands-on experience in machine learning engineering and distributed systems.
+I am currently pursuing a combined Bachelor's and Master's of Computer Science degree at the University of Illinois Urbana-Champaign (UIUC). I have hands-on experience in machine learning engineering and distributed systems.
 
 During Summer 2024, I worked at Capital One as a Software Engineer Intern. There, I built full-stack fraud detection solutions using technologies such as TypeScript, AWS Fargate, and Kafka that reduced fraud investigation time, fraud losses, and operational costs.
 
